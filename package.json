@@ -1,0 +1,11 @@
+{
+  "name": "poke-api",
+  "version": "1.0.0",
+  "description": "Pokemon go api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fr0th",
+  "license": "ISC"
+}
